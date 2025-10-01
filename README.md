@@ -1,2 +1,3 @@
 # Assignment_Java_Basics
-Basic Java program created as part of my CS coursework
+This repository contains four Java programs completed as part of my coursework.  
+Each file solves one specific problem and demonstrates basic Java concepts.
